@@ -26,9 +26,6 @@ Target variable:
 ## Results
 The Random Forest model demonstrated superior performance in detecting fraudulent transactions, particularly improving recall, which is critical for minimizing financial losses in fraud detection systems.
 
-## Why This Project Matters
-This project demonstrates how machine learning can be applied to real-world financial security problems. Such systems are directly applicable in banking, fintech platforms, and digital payment ecosystems to reduce fraud-related losses and improve transaction security.
-
 ## Tech Stack
 - Python
 - Pandas, NumPy
